@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratyush242
-- 👀 I’m interested in Machine Learning, Cloud and Systems.
+- 👀 I’m interested in Machine Learning, Data Science, Cloud and Systems.
 - 🌱 I’m currently learning Python, Java, C++.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/pratyushthakur/
