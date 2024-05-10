@@ -27,6 +27,7 @@ Hello 👋, I'm Pratyush, a Computer Engineering student at the University of Il
   - Working on enhancing a dataset of mathematical tokens with Natural Language Processing techniques to improve machine learning applications.
 
 
+## 📊 GitHub Stats
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyush242&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
