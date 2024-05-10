@@ -10,14 +10,11 @@ Hello 👋, I'm Pratyush, a Computer Engineering student at the University of Il
 
 ## 💼 Professional Experience
 - **Activision Blizzard (Microsoft)** - Incoming Software Engineering Intern | May 2024 - Aug 2024
-  - Working with technologies such as C++, Python, SQL, Azure, Apache Spark, and Apache Kafka in distributed systems and data engineering for *Call of Duty: Modern Warfare III*.
 
 - **Graybar Electric** - Software Engineering Intern | May 2023 - Aug 2023
-  - Developed a multimodal search application that extracts text from images and Excel sheets to query a database for relevant sales quotes, improving order processing efficiency by 68%.
 
 - **FedEx Corporation** - Software Engineering Intern | Jun 2022 - Aug 2022
-  - Built a comprehensive dashboard for analyzing threats in FedEx’s IT system using GCP and Google BigQuery, significantly reducing DDoS vulnerabilities.
-
+ 
 ## 🛠️ Technical Skills
 - **Languages**: Java, C#, C, C++, Python, Go, SQL, TypeScript, JavaScript, HTML/CSS
 - **Tools & Frameworks**: Git, React, MongoDB, PostgreSQL, Node.js, AWS, Azure, Docker, PyTorch, Spark, Kafka
