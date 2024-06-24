@@ -9,7 +9,7 @@ Hello 👋, I'm Pratyush, a Computer Engineering student at the University of Il
   - Courses: Data Structures & Algorithms, Machine Learning, Distributed Systems, Database Systems, Operating Systems, Web Development, Systems Programming
 
 ## 💼 Professional Experience
-- **Activision Blizzard (Microsoft)** - Incoming Software Engineering Intern | May 2024 - Aug 2024
+- **Microsoft Gaming - Activision** - Software Engineering Intern | May 2024 - Aug 2024
 
 - **Graybar Electric** - Software Engineering Intern | May 2023 - Aug 2023
 
