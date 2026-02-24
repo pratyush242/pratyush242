@@ -1,16 +1,15 @@
-## Hi there 👋
+────────────────────────────────────────
 
-<!--
-**pratyush242/pratyush242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pratyush thakur
 
-Here are some ideas to get you started:
+uiuc ece '25
+software engineer @ google
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linkedin: https://www.linkedin.com/in/pratyushthakur/
+
+────────────────────────────────────────
+
+i work on modeling systems that run at scale.
+
+(i move large amounts of data around
+and then stare at metrics like they owe me money.)
