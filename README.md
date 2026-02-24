@@ -3,6 +3,7 @@
 pratyush thakur
 
 uiuc ece '25
+
 software engineer @ google
 
 linkedin: https://www.linkedin.com/in/pratyushthakur/
